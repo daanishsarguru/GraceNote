@@ -1,0 +1,869 @@
+[INFO ] 2018-12-19 01:10:01.106 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:10:02.470 [main] LoggerClass - User decision: 1
+[INFO ] 2018-12-19 01:10:02.470 [main] LoggerClass - key: csvFilePath
+[INFO ] 2018-12-19 01:10:02.470 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:10:02.470 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:13:36.647 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:13:37.471 [main] LoggerClass - User decision: 1
+[INFO ] 2018-12-19 01:13:37.474 [main] LoggerClass - key: csvFilePath
+[INFO ] 2018-12-19 01:13:37.476 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:13:37.477 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - key: year
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - 2018
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - key: beforeAfter
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - before
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - key: includeYear
+[INFO ] 2018-12-19 01:13:37.755 [main] LoggerClass - true
+[INFO ] 2018-12-19 01:13:37.771 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:13:37.785 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:13:37.788 [main] LoggerClass - key: outputFilePath
+[INFO ] 2018-12-19 01:13:37.791 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/
+[INFO ] 2018-12-19 01:13:37.791 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:14:01.442 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:14:02.224 [main] LoggerClass - User decision: 1
+[INFO ] 2018-12-19 01:14:02.224 [main] LoggerClass - key: csvFilePath
+[INFO ] 2018-12-19 01:14:02.224 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:14:02.224 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - key: year
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - 2018
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - key: beforeAfter
+[INFO ] 2018-12-19 01:14:02.507 [main] LoggerClass - before
+[INFO ] 2018-12-19 01:14:02.522 [main] LoggerClass - key: includeYear
+[INFO ] 2018-12-19 01:14:02.522 [main] LoggerClass - true
+[INFO ] 2018-12-19 01:14:02.538 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:14:02.538 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:14:02.538 [main] LoggerClass - key: outputFilePath
+[INFO ] 2018-12-19 01:14:02.538 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/
+[INFO ] 2018-12-19 01:14:02.538 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:14:05.573 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:14:06.169 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:14:07.480 [main] LoggerClass - Csv file path: dfdsfd
+[ERROR] 2018-12-19 01:14:07.480 [main] LoggerClass - dfdsfd (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:15:01.008 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:15:01.284 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:15:01.284 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:15:03.095 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.095 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.111 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.111 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.127 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.127 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.142 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.142 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.158 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.158 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.176 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.176 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.176 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.192 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.192 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.207 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.207 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.207 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.223 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.223 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.223 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.239 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.239 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.254 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.254 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.273 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.273 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.273 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.289 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.289 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.304 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.304 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.304 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.320 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.320 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.320 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.336 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.336 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.351 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.351 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.351 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.370 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.370 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.370 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.385 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.385 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.401 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.401 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.401 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.417 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.417 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.432 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.432 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.432 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.448 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.448 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.463 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.467 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.467 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.467 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.482 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.482 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.482 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.498 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.498 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.514 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.514 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.514 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.529 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.529 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.545 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.545 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.545 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.563 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.563 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.563 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.584 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.588 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.588 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.588 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.588 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.604 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.604 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.619 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.619 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.619 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.635 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.635 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.650 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.650 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.650 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.669 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.669 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.669 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.684 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.684 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.684 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.700 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.700 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.716 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.716 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.716 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.731 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.731 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.731 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.747 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.747 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.747 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.765 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.765 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.765 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.781 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.781 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.797 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.797 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.797 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.812 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.812 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.812 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.830 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.830 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.830 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.846 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.846 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.863 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.863 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.863 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.879 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.879 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.894 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.894 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.894 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.910 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.910 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.910 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.926 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.926 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.941 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.941 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.941 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.957 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.957 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.975 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.975 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.975 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.975 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.991 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:03.991 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.006 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.006 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.006 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.022 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.022 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.038 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.038 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.038 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.053 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.053 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.053 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.070 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.070 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.102 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.102 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.102 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.117 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.117 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.148 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.148 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.166 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.166 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.166 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.166 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.182 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.182 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.197 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.197 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.197 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.213 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.213 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.229 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.229 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.229 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.244 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.244 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.244 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.262 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.262 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.262 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.278 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.278 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.294 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.294 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.294 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.309 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.309 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.325 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.325 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.325 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.341 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.341 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.356 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.356 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.374 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.374 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.374 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.374 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.390 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.390 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.406 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.406 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.406 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.421 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.421 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.437 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.437 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.437 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.452 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.452 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.471 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.471 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.471 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.486 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.486 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.486 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.502 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.502 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.517 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.517 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.517 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.533 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.533 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.549 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.549 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.549 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.632 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.632 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.632 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.666 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.666 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.666 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.681 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.681 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.681 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.697 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.697 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.713 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.713 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.713 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.728 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.728 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.744 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.744 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.744 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.762 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.762 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.762 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.778 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.778 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.778 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.793 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.793 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.793 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.809 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.809 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.824 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.824 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.840 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.840 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.840 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.856 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.856 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.874 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.874 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.874 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.874 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.890 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.890 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.905 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.905 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.905 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.921 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.921 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.937 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.937 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.937 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.952 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.952 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.970 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.970 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.970 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.986 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.986 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:04.986 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.002 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.002 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.017 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.017 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.033 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.033 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.033 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.049 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.049 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.049 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.067 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.067 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.067 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.083 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.083 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.099 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.099 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.099 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.114 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.114 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.130 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.130 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.130 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.145 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.145 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.181 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.181 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.196 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.196 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.212 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.212 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.227 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.227 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.227 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.243 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.243 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.259 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.259 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.259 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.277 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.277 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.277 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.293 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.293 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.308 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.308 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.308 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.324 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.324 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.339 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.339 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.339 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.355 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.355 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.355 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.373 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.373 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.373 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.389 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.389 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.404 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.404 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.404 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.420 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.420 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.420 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.436 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.436 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.451 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.451 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.451 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.469 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.469 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.469 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.485 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.485 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.516 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.516 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.516 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.532 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.532 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.548 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.548 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.548 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.569 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.602 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.602 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.667 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.667 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.667 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.683 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.683 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.698 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.698 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.698 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.714 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.714 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.730 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.730 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:15:05.730 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:16:26.229 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:16:27.730 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:16:31.167 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:16:31.443 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:16:31.443 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:16:33.201 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:34.480 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:35.262 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:35.484 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:35.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:35.778 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:35.921 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:36.082 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:36.224 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:36.401 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:36.544 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:36.866 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:37.013 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:37.183 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:16:37.374 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:16:38.832 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:16:40.762 [main] LoggerClass - beforeAfter: dsfds
+[INFO ] 2018-12-19 01:16:42.387 [main] LoggerClass - beforeAfter: sdfsdf
+[INFO ] 2018-12-19 01:17:33.334 [main] LoggerClass - beforeAfter: ssd
+[INFO ] 2018-12-19 01:17:38.844 [main] LoggerClass - beforeAfter: before
+[INFO ] 2018-12-19 01:17:59.890 [main] LoggerClass - includeYear: false
+[INFO ] 2018-12-19 01:17:59.905 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:17:59.905 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:17:59.905 [main] LoggerClass - outputFilePath: 
+[INFO ] 2018-12-19 01:18:00.078 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:18:00.093 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:26:19.990 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:26:22.972 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:26:24.094 [main] LoggerClass - Csv file path: ddsffds
+[ERROR] 2018-12-19 01:26:24.110 [main] LoggerClass - ddsffds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:28:08.508 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:28:09.469 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:28:10.511 [main] LoggerClass - Csv file path: dfds
+[ERROR] 2018-12-19 01:28:10.526 [main] LoggerClass - dfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:28:12.295 [main] LoggerClass - Csv file path: sdf
+[ERROR] 2018-12-19 01:28:12.295 [main] LoggerClass - sdf (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:29:21.817 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:29:22.633 [main] LoggerClass - User decision: 1
+[INFO ] 2018-12-19 01:29:22.633 [main] LoggerClass - key: csvFilePath
+[INFO ] 2018-12-19 01:29:22.633 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:29:22.633 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:29:22.904 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - key: year
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - 2018
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - key: beforeAfter
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - before
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - key: includeYear
+[INFO ] 2018-12-19 01:29:22.920 [main] LoggerClass - true
+[INFO ] 2018-12-19 01:29:22.936 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:29:22.936 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:29:22.936 [main] LoggerClass - key: outputFilePath
+[INFO ] 2018-12-19 01:29:22.951 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/
+[INFO ] 2018-12-19 01:29:22.951 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:29:26.397 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:29:27.723 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:29:31.525 [main] LoggerClass - Csv file path: dsfdsf
+[ERROR] 2018-12-19 01:29:31.541 [main] LoggerClass - dsfdsf (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:33:17.388 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:33:18.159 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:33:19.415 [main] LoggerClass - Csv file path: ddsfds
+[ERROR] 2018-12-19 01:33:19.415 [main] LoggerClass - ddsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:33:20.570 [main] LoggerClass - Csv file path: dsfds
+[ERROR] 2018-12-19 01:33:20.570 [main] LoggerClass - dsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:33:21.459 [main] LoggerClass - Csv file path: fdsfdsfsd
+[ERROR] 2018-12-19 01:33:21.474 [main] LoggerClass - fdsfdsfsd (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:33:28.146 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:33:28.428 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:33:28.428 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:33:30.040 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.056 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.056 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.056 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.071 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.071 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.087 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.087 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.103 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.103 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.118 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.118 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.134 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.134 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.134 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.150 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.150 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.165 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.181 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.181 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.196 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.196 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.196 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.212 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.212 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.228 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.228 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.243 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.243 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.243 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.259 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.259 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.275 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.275 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.275 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.290 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.290 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.311 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.316 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.324 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.329 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.329 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.329 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.329 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.345 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.345 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.360 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.360 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.360 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.376 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.376 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.376 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.392 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.392 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.407 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.407 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.407 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.430 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.437 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.444 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.453 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.454 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.454 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.454 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.470 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.470 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.485 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.485 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.485 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.501 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.517 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.517 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.532 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.532 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.532 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.548 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.548 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.569 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.570 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.586 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.601 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.617 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.633 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.648 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.664 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.664 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.680 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.680 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.680 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.695 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.695 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.711 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.711 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.711 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.726 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.726 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.742 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.742 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.742 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.758 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.758 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.773 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.773 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.773 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.789 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.789 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.805 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.805 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.820 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.820 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.820 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.836 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.836 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.851 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.851 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.851 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.867 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.867 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.867 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.883 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.883 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.898 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.898 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.898 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.914 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.914 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.930 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.930 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.930 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.945 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.945 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.961 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.961 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.961 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.976 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.976 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.992 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.992 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:30.992 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.008 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.008 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.023 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.023 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.023 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.039 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.039 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.054 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.054 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.054 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.070 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.070 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.086 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.101 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.101 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.101 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.117 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.117 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.133 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.148 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.148 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.148 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.164 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.164 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.179 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.179 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.179 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.195 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:33:31.195 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:34:56.200 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:34:57.696 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:34:58.696 [main] LoggerClass - Csv file path: dfsfds
+[ERROR] 2018-12-19 01:34:58.696 [main] LoggerClass - dfsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.146 [main] LoggerClass - Csv file path: dsfds
+[ERROR] 2018-12-19 01:34:59.146 [main] LoggerClass - dsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.349 [main] LoggerClass - Csv file path: fds
+[ERROR] 2018-12-19 01:34:59.349 [main] LoggerClass - fds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.505 [main] LoggerClass - Csv file path: fds
+[ERROR] 2018-12-19 01:34:59.521 [main] LoggerClass - fds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.668 [main] LoggerClass - Csv file path: fd
+[ERROR] 2018-12-19 01:34:59.668 [main] LoggerClass - fd (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.840 [main] LoggerClass - Csv file path: sf
+[ERROR] 2018-12-19 01:34:59.840 [main] LoggerClass - sf (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:34:59.983 [main] LoggerClass - Csv file path: dfsd
+[ERROR] 2018-12-19 01:34:59.983 [main] LoggerClass - dfsd (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:35:03.428 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:35:03.704 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:35:03.720 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:35:04.900 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:35:05.864 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:35:07.153 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:35:08.727 [main] LoggerClass - beforeAfter: dsfdsf
+[INFO ] 2018-12-19 01:35:09.336 [main] LoggerClass - beforeAfter: fsdfds
+[INFO ] 2018-12-19 01:35:09.838 [main] LoggerClass - beforeAfter: dsfds
+[INFO ] 2018-12-19 01:35:11.501 [main] LoggerClass - beforeAfter: before
+[ERROR] 2018-12-19 01:35:14.466 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:35:14.482 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:35:14.482 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:35:14.482 [main] LoggerClass - outputFilePath: fsds'
+[INFO ] 2018-12-19 01:35:14.638 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:35:14.653 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:48:51.912 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:48:53.341 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:48:58.487 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:48:58.757 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:48:58.757 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 01:49:00.434 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:49:02.939 [main] LoggerClass - beforeAfter: after
+[INFO ] 2018-12-19 01:49:05.049 [main] LoggerClass - includeYear: true
+[INFO ] 2018-12-19 01:49:05.064 [main] LoggerClass - Calculated Sales: 0
+[INFO ] 2018-12-19 01:49:05.064 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:49:05.064 [main] LoggerClass - outputFilePath: 
+[INFO ] 2018-12-19 01:49:05.236 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:49:05.252 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:50:25.166 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:50:28.322 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:50:31.044 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:50:31.325 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:50:31.325 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:50:35.338 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:50:37.273 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:50:39.758 [main] LoggerClass - beforeAfter: before
+[ERROR] 2018-12-19 01:50:40.838 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:50:40.854 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:50:40.854 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:50:40.869 [main] LoggerClass - outputFilePath: fsdfdsfds
+[INFO ] 2018-12-19 01:50:41.041 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:50:41.056 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:52:34.100 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:52:35.742 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:52:43.131 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:52:43.412 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:52:43.428 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 01:52:45.056 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:52:46.822 [main] LoggerClass - beforeAfter: before
+[ERROR] 2018-12-19 01:52:47.490 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:52:47.506 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:52:47.506 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:52:56.603 [main] LoggerClass - outputFilePath: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/
+[INFO ] 2018-12-19 01:52:56.775 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:52:56.790 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 01:53:10.774 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 01:53:11.429 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 01:53:20.633 [main] LoggerClass - Csv file path: dsfdsfds
+[ERROR] 2018-12-19 01:53:20.649 [main] LoggerClass - dsfdsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:53:21.195 [main] LoggerClass - Csv file path: dsfdsf
+[ERROR] 2018-12-19 01:53:21.195 [main] LoggerClass - dsfdsf (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:53:21.726 [main] LoggerClass - Csv file path: sdfdsfds
+[ERROR] 2018-12-19 01:53:21.742 [main] LoggerClass - sdfdsfds (The system cannot find the file specified)
+[INFO ] 2018-12-19 01:53:24.773 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 01:53:25.053 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 01:53:25.053 [main] LoggerClass - Calculating the Sales
+[ERROR] 2018-12-19 01:53:28.918 [main] LoggerClass - null
+[ERROR] 2018-12-19 01:53:29.592 [main] LoggerClass - null
+[INFO ] 2018-12-19 01:53:31.034 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 01:53:32.566 [main] LoggerClass - beforeAfter: sdfds
+[INFO ] 2018-12-19 01:53:33.075 [main] LoggerClass - beforeAfter: dsfdsf
+[INFO ] 2018-12-19 01:53:36.093 [main] LoggerClass - beforeAfter: before
+[INFO ] 2018-12-19 01:53:39.672 [main] LoggerClass - includeYear: true
+[INFO ] 2018-12-19 01:53:39.688 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 01:53:39.688 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 01:53:41.544 [main] LoggerClass - outputFilePath: dsfsdf
+[INFO ] 2018-12-19 01:53:41.701 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 01:53:41.716 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 02:00:06.060 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 02:00:07.530 [main] LoggerClass - User decision: 2
+[INFO ] 2018-12-19 02:00:12.869 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 02:00:13.150 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 02:00:13.150 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 02:00:15.434 [main] LoggerClass - Year: 2018
+[INFO ] 2018-12-19 02:00:17.378 [main] LoggerClass - beforeAfter: before
+[ERROR] 2018-12-19 02:00:20.326 [main] LoggerClass - null
+[INFO ] 2018-12-19 02:00:20.342 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 02:00:20.342 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 02:00:21.758 [main] LoggerClass - outputFilePath: fdfsd
+[INFO ] 2018-12-19 02:00:21.914 [main] LoggerClass - Invalid file path.
+[INFO ] 2018-12-19 02:00:21.930 [main] LoggerClass - JSON file written successfully.
+[INFO ] 2018-12-19 02:00:21.946 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 20:45:20.285 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 20:46:05.305 [main] LoggerClass - User decision: 1
+[INFO ] 2018-12-19 20:46:05.307 [main] LoggerClass - key: csvFilePath
+[INFO ] 2018-12-19 20:46:05.307 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 20:46:05.307 [main] LoggerClass - Csv file path: C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/Sales.csv
+[INFO ] 2018-12-19 20:46:05.539 [main] LoggerClass - Calculating the additional column of account age
+[INFO ] 2018-12-19 20:46:05.633 [main] LoggerClass - Calculating the Sales
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - key: year
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - 2018
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - key: beforeAfter
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - before
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - key: includeYear
+[INFO ] 2018-12-19 20:46:05.634 [main] LoggerClass - true
+[INFO ] 2018-12-19 20:46:05.645 [main] LoggerClass - Calculated Sales: 1630500
+[INFO ] 2018-12-19 20:46:05.646 [main] LoggerClass - Create the response and write it to JSON file in JSON format
+[INFO ] 2018-12-19 20:46:05.647 [main] LoggerClass - key: outputFilePath
+[INFO ] 2018-12-19 20:46:05.648 [main] LoggerClass - C:/Users/Daanish/Downloads/Home_Java_Interview_Coding_Test/
+[INFO ] 2018-12-19 20:46:05.648 [main] LoggerClass - Program ended. Cleaning resources.
+[INFO ] 2018-12-19 21:18:25.681 [main] LoggerClass - Program has started, asking user for options
+[INFO ] 2018-12-19 21:18:41.536 [main] LoggerClass - Program has started, asking user for options
